@@ -1,0 +1,8 @@
+{
+	"title":"Template Mod",
+	"description":"Basically a interstaller confrontation port to leather engine",
+	"author":"Jack",
+	"api_version":"0.0.0",
+	"mod_version":"1.0.0-alpha",
+	"license":"Apache 2.0"
+}
